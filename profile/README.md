@@ -4,4 +4,3 @@ This repository serves as a central hub for all of our open-source projects, int
 
 # About Furthersoft Inc.
 Furthersoft Inc. is a technology company dedicated to developing innovative software solutions that drive business success. Our mission is to deliver high-quality, reliable, and user-friendly software products that meet the evolving needs of our clients and partners.
-readme
